@@ -9,4 +9,4 @@
 
 ## Wireframes
 
-![img_3018](https://user-images.githubusercontent.com/26368039/53670516-39f98600-3c38-11e9-966c-2e8ec1244b17.jpg)
+![img_3018](https://user-images.githubusercontent.com/26368039/53670620-9a88c300-3c38-11e9-850c-4e7329f00f87.jpg)
