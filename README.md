@@ -8,3 +8,5 @@
 5.	Using an information in the server/express from backend to make API request from different news agencies.
 
 ## Wireframes
+
+![img_3018](https://user-images.githubusercontent.com/26368039/53670516-39f98600-3c38-11e9-966c-2e8ec1244b17.jpg)
