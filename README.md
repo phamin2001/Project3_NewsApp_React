@@ -10,3 +10,6 @@
 ## Wireframes
 
 ![img_3018](https://user-images.githubusercontent.com/26368039/53670620-9a88c300-3c38-11e9-850c-4e7329f00f87.jpg)
+
+![img_3019](https://user-images.githubusercontent.com/26368039/53670692-c5731700-3c38-11e9-83aa-7591a22bde81.jpg)
+
