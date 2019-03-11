@@ -1,5 +1,4 @@
 # Project3_NewsApp_React
-<<<<<<< HEAD
 =======
 
 ### User Story
