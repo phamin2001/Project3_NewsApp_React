@@ -18,4 +18,3 @@
 ![img_3020](https://user-images.githubusercontent.com/26368039/53670727-ecc9e400-3c38-11e9-82cf-6cfb2faececa.jpg)
 
 
->>>>>>> a56d9e349c391c9a159ae2886afa6771c9e49a67
