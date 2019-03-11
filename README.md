@@ -1,5 +1,4 @@
 # Project3_NewsApp_React
-=======
 
 ### User Story
 1.	User can log in.
